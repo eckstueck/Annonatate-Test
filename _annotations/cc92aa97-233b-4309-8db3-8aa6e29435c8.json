@@ -1,0 +1,65 @@
+---
+canvas: "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Jena-Lichtenhain",
+            "purpose": "commenting",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:26:13.981Z",
+            "modified": "2023-12-07T16:26:27.498Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5663312,
+                    50.9145298
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/2653831374",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:26:45.105Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "name",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:27:07.213Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://eckstueck.github.io/Annonatate-Test/manifests/v2/HisBest_derivate_00024267/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4361.9619140625,10669.568359375,1587.318359375,214.1884765625"
+        }
+    },
+    "id": "cc92aa97-233b-4309-8db3-8aa6e29435c8.json",
+    "motivation": "commenting"
+}
