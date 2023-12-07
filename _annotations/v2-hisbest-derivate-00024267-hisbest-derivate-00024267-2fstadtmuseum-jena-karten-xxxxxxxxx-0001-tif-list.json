@@ -1,0 +1,9 @@
+---
+canvas_id: "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
