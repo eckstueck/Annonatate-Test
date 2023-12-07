@@ -47,17 +47,17 @@ order: 1
     "id": "cc92aa97-233b-4309-8db3-8aa6e29435c8.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "value": "<svg><polygon points=\"4361.9619140625,10669.568359375 5155.62109375,10669.568359375 5949.2802734375,10669.568359375 5949.2802734375,10776.66259765625 5949.2802734375,10883.7568359375 5155.62109375,10883.7568359375 4361.9619140625,10883.7568359375 4361.9619140625,10776.66259765625\"></polygon></svg>",
-            "type": "SvgSelector"
-        },
         "source": {
-            "id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif",
             "partOf": {
                 "id": "https://eckstueck.github.io/Annonatate-Test/manifests/v2/HisBest_derivate_00024267/manifest.json",
                 "type": "Manifest"
             },
+            "id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4362,10669.6 5074.3,10701.1 5949.3,10669.6 5949.3,10776.7 5949.3,10883.8 5155.6,10883.8 4362,10883.8 4362,10776.7\"></polygon></svg>"
         }
     },
     "type": "Annotation"
