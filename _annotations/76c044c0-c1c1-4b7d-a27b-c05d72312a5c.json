@@ -1,0 +1,55 @@
+---
+canvas: "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/canvas/jenakarte-1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lichtenhain",
+            "purpose": "identifying",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:42:35.083Z",
+            "modified": "2023-12-07T16:42:50.974Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5663312,
+                    50.9145298
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/2653831374",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:43:02.407Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/canvas/jenakarte-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1725.095458984375,7289.83837890625,802.727294921875,100.9091796875"
+        }
+    },
+    "id": "76c044c0-c1c1-4b7d-a27b-c05d72312a5c.json",
+    "motivation": "commenting"
+}
