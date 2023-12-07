@@ -1,0 +1,108 @@
+---
+added: '2023-12-07 16:23:12.671849'
+thumbnail: https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif
+title: "Universit\xE4tsstadt Jena, Plan der Universit\xE4tsstadt Jena : den Teilnehmern\
+  \ am Deutschen Berufs- und Fachschultag 1928 \xFCberreicht vom Ortsausschuss"
+user: Michel
+
+---
+{
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+                },
+                "width": 19523,
+                "height": 11875,
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@type": "dctypes:Image",
+                "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+              },
+              "on": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif",
+              "motivation": "sc:painting",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "@oa:Annotation",
+              "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/annotation/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+            }
+          ],
+          "metadata": [],
+          "label": "phys_Stadtmuseum_Jena_Karten_xxxxxxxxx_0001",
+          "height": 11875,
+          "width": 19523,
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@type": "sc:Canvas",
+          "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif"
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif"
+                },
+                "width": 19584,
+                "height": 12005,
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@type": "dctypes:Image",
+                "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif"
+              },
+              "on": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif",
+              "motivation": "sc:painting",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "@oa:Annotation",
+              "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/annotation/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif"
+            }
+          ],
+          "metadata": [],
+          "label": "phys_Stadtmuseum_Jena_Karten_xxxxxxxxx_0002",
+          "height": 12005,
+          "width": 19584,
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@type": "sc:Canvas",
+          "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif"
+        }
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Sequence",
+      "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/sequence/phys_HisBest_derivate_00024267"
+    }
+  ],
+  "metadata": [
+    {
+      "label": "title",
+      "value": "Universit\u00e4tsstadt Jena, Plan der Universit\u00e4tsstadt Jena : den Teilnehmern am Deutschen Berufs- und Fachschultag 1928 \u00fcberreicht vom Ortsausschuss"
+    }
+  ],
+  "structures": [
+    {
+      "metadata": [
+        {
+          "label": "title",
+          "value": "Universit\u00e4tsstadt Jena, Plan der Universit\u00e4tsstadt Jena : den Teilnehmern am Deutschen Berufs- und Fachschultag 1928 \u00fcberreicht vom Ortsausschuss"
+        }
+      ],
+      "ranges": [],
+      "canvases": [
+        "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0001.tif",
+        "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/canvas/HisBest_derivate_00024267%2FStadtmuseum_Jena_Karten_xxxxxxxxx_0002.tif"
+      ],
+      "label": "Universit\u00e4tsstadt Jena",
+      "viewingHint": "top",
+      "@type": "sc:Range",
+      "@id": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00024267/range/log_HisBest_derivate_00024267"
+    }
+  ],
+  "label": "Universit\u00e4tsstadt Jena, Plan der Universit\u00e4tsstadt Jena : den Teilnehmern am Deutschen Berufs- und Fachschultag 1928 \u00fcberreicht vom Ortsausschuss",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://eckstueck.github.io/Annonatate-Test/manifests/v2/HisBest_derivate_00024267/manifest.json"
+}
