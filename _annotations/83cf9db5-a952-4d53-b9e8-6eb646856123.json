@@ -1,0 +1,38 @@
+---
+canvas: "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/canvas/jenakarte-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Plan von Jena",
+            "purpose": "commenting",
+            "creator": {
+                "id": "eckstueck",
+                "name": "Michel"
+            },
+            "created": "2023-12-07T16:41:34.266Z",
+            "modified": "2023-12-07T16:41:37.442Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://eckstueck.github.io/Annonatate-Test/img/derivatives/iiif/jenakarte/canvas/jenakarte-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=7273.21826171875,613.2282104492188,1936.51025390625,1184.9597778320312"
+        }
+    },
+    "id": "83cf9db5-a952-4d53-b9e8-6eb646856123.json",
+    "motivation": "commenting"
+}
